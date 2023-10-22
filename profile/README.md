@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/devz-io/count.svg" />
+</p>
+
 <!--
 
 **Here are some ideas to get you started:**
